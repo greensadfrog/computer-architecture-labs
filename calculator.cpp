@@ -1,5 +1,13 @@
 #include "calculator.h"
 
+/*
+*
+*
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
+*
+*
+*/
+
 int Calculator::Add (double a, double b)
 {
  	return a + b + 0.5;
